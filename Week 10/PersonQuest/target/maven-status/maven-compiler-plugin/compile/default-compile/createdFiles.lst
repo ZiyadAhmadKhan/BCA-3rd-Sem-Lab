@@ -1,0 +1,4 @@
+com\mycompany\personquest\Person.class
+com\mycompany\personquest\Person$Address.class
+com\mycompany\personquest\Person$DateOfBirth.class
+com\mycompany\personquest\PersonQuest.class
